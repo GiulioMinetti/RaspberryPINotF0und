@@ -59,6 +59,17 @@ Table of Content:
 */
 
 /* variable */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
 
 /* general */
 body {
